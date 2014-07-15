@@ -19,11 +19,11 @@ The puzzle should take between 15 minutes and an hour, with the two extra
 credit questions possibly requiring a little more time and thought.
 
 If you're interested in participating, check out the following
-[GitHub repository](https://github.com/twitter/oscon-puzzles/grailbird-network)
+[GitHub repository](https://github.com/twitter/oscon-puzzles/tree/master/grailbird-network)
 for the full problem description, sample data, and submission instructions:
 
 ```
-https://github.com/twitter/oscon-puzzles/grailbird-network
+https://github.com/twitter/oscon-puzzles/tree/master/grailbird-network
 ```
 
 Submit your answer by midnight on Tuesday, July 22, for a chance to win some
