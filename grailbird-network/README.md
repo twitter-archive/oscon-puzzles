@@ -118,7 +118,7 @@ Details and gotchas
 -------------------
 
 * Only include the users in the `entity_mentions` field when you're adding
-co-occurence links. This means that you won't be included in your own tweets.
+co-occurrence links. This means that you won't be included in your own tweets.
 For example, in the [@finagle](https://twitter.com/finagle) tweet above,
 we'd increment the links between [@twitter](https://twitter.com/twitter),
 [@tumblr](https://twitter.com/tumblr),

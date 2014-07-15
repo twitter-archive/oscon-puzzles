@@ -3,9 +3,9 @@ Your Twitter Network: OSCON 2014 Puzzle
 
 [Co-occurrence networks](http://en.wikipedia.org/wiki/Co-occurrence_networks)
 are often used to infer social networks from mentions of names in a set of
-documents. This Scala coding puzzle invites you to create a co-occurence network
-from your personal Twitter archive, and to discover some facts about the Twitter
-users in that network, including which have the highest
+documents. This Scala coding puzzle invites you to create a co-occurrence
+network from your personal Twitter archive, and to discover some facts about the
+Twitter users in that network, including which have the highest
 [degree](http://en.wikipedia.org/wiki/Degree_%28graph_theory%29),
 [node strength](http://en.wikipedia.org/wiki/Weighted_network), and (for extra
 credit)
